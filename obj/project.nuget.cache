@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIjWumz4Q4oP2S92f13GQFhgzXVMAK0zeUwS5tDW6vYnStulwEZHP326xHzOLeI6KwHFW/D5y5g5gX/sfP6gJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikey\\OneDrive\\Documents\\my games\\Terraria\\ModLoader\\Mod Sources\\SlimySupport\\SlimySupport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikey\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
