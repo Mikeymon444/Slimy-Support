@@ -20,7 +20,7 @@ namespace SlimySupport.Root.NPCs
 			npc.height = 40;
 			npc.damage = 50;
 			npc.defense = 7;
-			npc.lifeMax = 2500;
+			npc.lifeMax = 500;
 			npc.HitSound = SoundID.NPCHit54;
 			npc.DeathSound = SoundID.NPCDeath54;
 			npc.value = 100f;

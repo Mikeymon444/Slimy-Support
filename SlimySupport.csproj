@@ -16,5 +16,6 @@
   <ItemGroup>
     <Folder Include="Root\Items\Armor\" />
     <Folder Include="Root\Items\Tools\" />
+    <Folder Include="Root\Mounts\" />
   </ItemGroup>
 </Project>

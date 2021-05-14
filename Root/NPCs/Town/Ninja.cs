@@ -6,7 +6,7 @@ using Terraria.ModLoader;
 namespace SlimySupport.Root.NPCs.Town
 {
     [AutoloadHead]
-    public class NinjaNPC : ModNPC
+    public class Ninja : ModNPC
     {
         //public override string Texture
         //{
